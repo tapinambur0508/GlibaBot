@@ -1,0 +1,23 @@
+{
+  "name": "glibabot",
+  "version": "1.0.0",
+  "description": "My first telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "telegram",
+    "GlibaBot"
+  ],
+  "author": "Vitalij Mudrij",
+  "license": "ISC",
+  "dependencies": {
+    "dropbox": "^2.5.7",
+    "node-telegram-bot-api": "^0.28.0",
+    "y-currency": "^1.0.3",
+    "yahoo-stocks": "^2.0.1",
+    "yahoo-weather": "^2.2.2"
+  }
+}
